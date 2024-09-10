@@ -1,4 +1,5 @@
-Hi, I'm Viswanathan 👋
+#### Hi, I'm Viswanathan 👋
+
 I'm currently pursuing my B.Tech in Information Technology at LICET. My strengths lie in Data Science, Computer Vision, and Python, with additional experience in HTML, CSS, JavaScript, Java, and MySQL.
 
 I've worked with a variety of technologies including Spring Boot (Java), Django (Python), and both MERN and MEAN stacks. I'm particularly passionate about IoT, Computer Vision, and exploring NoSQL databases.
